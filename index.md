@@ -27,6 +27,7 @@ My main programming language is Python, but I also have experience in C++, JavaS
 * AWS Subject Mattter Expert
 * DevOps (IaC, Docker, GitHub Action)
 * API integration
+* Healthcare Data, Good Clinical Practice, ICD10, CPT Codes, FHIRv7
 
 ### Education
 
@@ -63,8 +64,6 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 * Twitter: [@PMalliard](https://twitter.com/PMalliard)
 
 ### Publications and Blog Posts
-
-Share any relevant publications or blog posts you have written.
 
 * Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
   * Blog post on how the MLOps infrastructure around SageMaker Autopilot
