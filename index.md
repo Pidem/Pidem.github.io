@@ -6,22 +6,17 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-Welcome to my GitHub Page! I have over 8 years experience working in the AI/ML space with a passion for solving problems in the Healthcare & Life Sciences space. Most recently, I have been working as a Full-Stack Data Scientist at Amazon Web Services supporting Healthcare clients. 
+Welcome to my GitHub Page! With over 8 years of experience in the AI/ML field, I am deeply passionate about leveraging data to solve complex problems, particularly in the Healthcare & Life Sciences domain. Recently, I have been contributing my expertise as a Full-Stack Data Scientist at Amazon Web Services, where I have had the opportunity to support healthcare clients and drive impactful solutions.
 
-I consider myself a "Data Generalist", having worked in the Data Engineering, Data Science and MLOps side of things: I have experience in Computer Vision, Natural Language Processing, Forecasting, Large Language Models and I have worked with both structured and unstructured data. 
+Throughout my career, I have embraced the role of a "Data Generalist," immersing myself in various aspects of the data ecosystem. From data engineering and architecture to data science and MLOps, I have gained valuable experience across multiple domains. My expertise extends to diverse areas such as Computer Vision, Natural Language Processing, Forecasting, Large Language Models, as well as more traditional machine learning approaches involving tabular data.
 
+My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
+### What I am currently excited about
+* Explainability in AI/ML 
+* Like everyone in the field, Large Language Models: LangChain, ChatGPT PlugIns, etc.
+* Precision Medicine & Gene Therapy & Wearables
 
-
-<!-- ### Projects
-
-#### Project 1: [Project Name 1](link-to-project-1)
-* Description: Briefly describe the project, including the problem statement, methodology, and key outcomes.
-* Technologies used: List the programming languages, libraries, frameworks, or tools used in the project.
-
-#### Project 2: [Project Name 2](link-to-project-2)
-* Description: Briefly describe the project, including the problem statement, methodology, and key outcomes.
-* Technologies used: List the programming languages, libraries, frameworks, or tools used in the project. -->
 
 ### Skills
 
@@ -29,8 +24,9 @@ I consider myself a "Data Generalist", having worked in the Data Engineering, Da
 * Data analysis and visualization
 * Machine learning and statistical modeling
 * Machine Learning Operations (MLOps)
+* AWS Subject Mattter Expert
+* DevOps (IaC, Docker, GitHub Action)
 * API integration
-
 
 ### Education
 
@@ -41,9 +37,13 @@ I consider myself a "Data Generalist", having worked in the Data Engineering, Da
 ### Experience
 
 * **Amazon Web Services (AWS)**, Data Science
-* **Masimo**, AI Enginnering
+  * Worked with multiple healthcare clients and only some select work is publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Sound Data, ML Architecture
+* **Masimo**, AI Engineering
+  * Electronic Health Records, Embedded Devices, Good Clinical Practices, Medical Devices. See these two press releases for two projects I worked on [Visual Clinical Activity Monitoring](https://investor.masimo.com/news/news-details/2023/Masimo-Announces-the-Limited-Market-Release-of-Visual-Clinical-Activity-Monitoring-VCAM/default.aspx) and  [Sepsis Index Clinical Decision Support](https://investor.masimo.com/news/news-details/2022/Masimo-Announces-Limited-Market-Release-of-Sepsis-Index/default.aspx)
 * **Capgemini**, Data Science
+  * Worked on one of the largest Cloud Migrations to Microsoft Azure and migrated a lot of Data Applications to Databricks / Spark / SparkML
 * **Louis Vuitton**, Data Science
+  * Worked part-time during Graduate School and built ML tools to help the Logistics team do Demand Forecasting.
 
 and in a previous life...
 * **Air Liquide**, Project Engineer, Hydrogen Cars
@@ -69,9 +69,8 @@ Share any relevant publications or blog posts you have written.
 * Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
   * Blog post on how the MLOps infrastructure around SageMaker Autopilot
 
-* System and Method for Monitoring Clinical Activities,[US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
+* System and Method for Monitoring Clinical Activities, [US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
   * US Patent for the work I did while working for Masimo
-
 
 
 ---
