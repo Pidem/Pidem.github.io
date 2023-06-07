@@ -52,9 +52,9 @@ and in a previous life...
 
 ### Certifications
 
-* AWS Solutions Architect
-* AWS Machine Learning Certified
-* AWS Developer
+* [AWS Certified Solutions Architect](https://www.credly.com/badges/d9289955-c415-4d42-a93e-4c2e4b17e500/linked_in_profile)
+* [AWS Certied Machine Learning Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e/linked_in_profile)
+* [AWS Certified Developer](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468?source=linked_in_profile)
 
 ### Contact Me
 
@@ -66,7 +66,7 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 ### Publications and Blog Posts
 
 * Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
-  * Blog post on how the MLOps infrastructure around SageMaker Autopilot
+  * Blog post on how to build MLOps infrastructure around SageMaker Autopilot
 
 * System and Method for Monitoring Clinical Activities, [US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
   * US Patent for the work I did while working for Masimo
