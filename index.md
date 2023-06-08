@@ -28,6 +28,7 @@ My main programming language is Python, but I also have experience in C++, JavaS
 * DevOps (IaC, Docker, GitHub Action)
 * API integration
 * Healthcare Data, Good Clinical Practice, ICD10, CPT Codes, FHIRv7
+* Project Scoping / Project Management / Pre-Sales work 
 
 ### Education
 
@@ -37,12 +38,15 @@ My main programming language is Python, but I also have experience in C++, JavaS
 
 ### Experience
 
-* **Amazon Web Services (AWS)**, Data Science
-  * Worked with multiple healthcare clients and only some select work is publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Sound Data, ML Architecture
+* **Amazon Web Services (AWS)**, Data Science Lead 
+  * Worked with multiple healthcare clients (healthcare providers, pharmaceutical companies) on AI solutions: Some select projects are publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Multi-omics data, Waveform Data. ML Architecture / Data Science / MLOps
 * **Masimo**, AI Engineering
-  * Electronic Health Records, Embedded Devices, Good Clinical Practices, Medical Devices. See these two press releases for two projects I worked on [Visual Clinical Activity Monitoring](https://investor.masimo.com/news/news-details/2023/Masimo-Announces-the-Limited-Market-Release-of-Visual-Clinical-Activity-Monitoring-VCAM/default.aspx) and  [Sepsis Index Clinical Decision Support](https://investor.masimo.com/news/news-details/2022/Masimo-Announces-Limited-Market-Release-of-Sepsis-Index/default.aspx)
+  * Built AI powered medical devices: Projects involved working with Electronic Health Records, Embedded Devices (NVDIA Jetsons), Good Clinical Practices. See these two press releases for two projects I worked on [Visual Clinical Activity Monitoring](https://investor.masimo.com/news/news-details/2023/Masimo-Announces-the-Limited-Market-Release-of-Visual-Clinical-Activity-Monitoring-VCAM/default.aspx) and  [Sepsis Index Clinical Decision Support](https://investor.masimo.com/news/news-details/2022/Masimo-Announces-Limited-Market-Release-of-Sepsis-Index/default.aspx)
 * **Capgemini**, Data Science
-  * Worked on one of the largest Cloud Migrations to Microsoft Azure and migrated a lot of Data Applications to Databricks / Spark / SparkML
+  * Worked on mulitple Data Science and Data Engineering enegagments across multiple industries
+  * Developed multiple core data lake applications for a Cloud Migrations to Microsoft Azure using Databricks / Spark / SparkML
+  * Led an engagment for an Entity Matching project using SparkML and Databricks
+
 * **Louis Vuitton**, Data Science
   * Worked part-time during Graduate School and built ML tools to help the Logistics team do Demand Forecasting.
 
