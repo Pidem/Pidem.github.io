@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Pierre de Malliard
-
 ## Data Generalist / Full-Stack Data Scientist
 
 Welcome to my GitHub Page! With over 8 years of experience in the AI/ML field, I am deeply passionate about leveraging data to solve complex problems, particularly in the Healthcare & Life Sciences domain. Recently, I have been contributing my expertise as a Full-Stack Data Scientist at Amazon Web Services, where I have had the opportunity to support healthcare clients and drive impactful solutions.

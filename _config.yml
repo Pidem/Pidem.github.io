@@ -1,9 +1,5 @@
+theme: jekyll-theme-minimal
 
-plugins:
-- jekyll-feed
-- jekyll-seo-tag
-
-theme: minima
 
 title: Pierre de Malliard
 logo: profile_picture.jpeg
