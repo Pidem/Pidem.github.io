@@ -4,7 +4,9 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-Welcome to my GitHub Page! With over 8 years of experience in the AI/ML field, I am deeply passionate about leveraging data to solve complex problems, particularly in the Healthcare & Life Sciences domain. Recently, I have been contributing my expertise as a Full-Stack Data Scientist at Amazon Web Services, where I have had the opportunity to support healthcare clients and drive impactful solutions.
+Greetings! With over 8 years of dedicated experience in the AI/ML field, my journey has been centered around harnessing the power of data to solve complex problems, particularly within the Healthcare & Life Sciences sphere.
+
+I have traversed diverse roles within this sector, ranging from research and development at the medical devices company, Masimo, to my recent role as an AI/ML Tech Lead at TensorIoT, an Amazon Web Services Consulting Partner. Until recently, I have been contributing my experiste as a Full-Stck Data Scientist at AWS. My engagement with healthcare clients, including industry giants in pharmaceuticals and healthcare providers, has been instrumental in crafting ML solutions and AI platforms that underpin operational success.
 
 Throughout my career, I have embraced the role of a "Data Generalist," immersing myself in various aspects of the data ecosystem. From data engineering and architecture to data science and MLOps, I have gained valuable experience across multiple domains. My expertise extends to diverse areas such as Computer Vision, Natural Language Processing, Forecasting, Large Language Models, as well as more traditional machine learning approaches involving tabular data.
 
@@ -12,8 +14,8 @@ My main programming language is Python, but I also have experience in C++, JavaS
 
 ### What I am currently excited about
 * Explainability in AI/ML 
-* Like everyone in the field, Large Language Models: LangChain, ChatGPT PlugIns, etc.
-* Precision Medicine & Gene Therapy & Wearables
+* Large Language Models: LangChain, ChatGPT PlugIns, AWS Bedrock
+* Precision Medicine, Gene Therapy & Wearables
 
 
 ### Skills
