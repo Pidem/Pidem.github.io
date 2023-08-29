@@ -4,9 +4,9 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-Greetings! With over 8 years of dedicated experience in the AI/ML field, my journey has been centered around harnessing the power of data to solve complex problems, particularly within the Healthcare & Life Sciences sphere.
+Greetings! With over 8 years of dedicated experience in the AI/ML field, my journey has been centered around harnessing the power of data to solve complex problems, particularly within the Healthcare & Life Sciences industry.
 
-I have traversed diverse roles within this sector, ranging from research and development at the medical devices company, Masimo, to my recent role as an AI/ML Tech Lead at TensorIoT, an Amazon Web Services Consulting Partner. Until recently, I have been contributing my experiste as a Full-Stck Data Scientist at AWS. My engagement with healthcare clients, including industry giants in pharmaceuticals and healthcare providers, has been instrumental in crafting ML solutions and AI platforms that underpin operational success.
+I worked diverse roles within this sector, ranging from an R&D role at the medical devices company, Masimo, to my current role as an AI/ML Tech Lead at TensorIoT, an Amazon Web Services Consulting Partner. Until recently, I have been contributing my expertise as a Full-Stack Data Scientist at AWS. I have worked with various healthcare clients, including industry giants in pharmaceuticals and healthcare providers, crafting ML solutions and AI platforms that underpin operational success.
 
 Throughout my career, I have embraced the role of a "Data Generalist," immersing myself in various aspects of the data ecosystem. From data engineering and architecture to data science and MLOps, I have gained valuable experience across multiple domains. My expertise extends to diverse areas such as Computer Vision, Natural Language Processing, Forecasting, Large Language Models, as well as more traditional machine learning approaches involving tabular data.
 
@@ -80,4 +80,4 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
 
-_last updated on June 9th, 2023_
+_last updated on August 29th, 2023_
