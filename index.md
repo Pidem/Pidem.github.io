@@ -12,6 +12,8 @@ Throughout my career, I have embraced the role of a "Data Generalist," immersing
 
 My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
+I am currently based in New York City. 
+
 ### What I am currently excited about
 * Explainability in AI/ML 
 * Large Language Models: LangChain, ChatGPT PlugIns, AWS Bedrock
