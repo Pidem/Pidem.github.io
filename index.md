@@ -40,6 +40,9 @@ I am currently based in New York City.
 
 ### Experience
 
+* **TensorIoT (AWS Partner)**, AI/ML Tech Lead
+  * Currently lead the technical delivery of AI projects, focussing moslty on GenAI projects: [Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
+  
 * **Amazon Web Services (AWS)**, Data Science Lead 
   * Worked with multiple healthcare clients (healthcare providers, pharmaceutical companies) on AI solutions: Some select projects are publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Multi-omics data, Waveform Data. ML Architecture / Data Science / MLOps
 * **Masimo**, AI Engineering
@@ -82,4 +85,4 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
 
-_last updated on August 29th, 2023_
+_last updated on November 28th, 2023_

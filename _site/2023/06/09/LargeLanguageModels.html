@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="/assets/css/style.css?v=570ff6f04fdae6f97d37d66c4e3497e10397eff0">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VM93DL0JJ3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VM93DL0JJ3');
+</script>
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Large Langunage Models - Strengths, Weaknesses, Opportunities &amp; Threats | Pierre de Malliard</title>
+<meta name="generator" content="Jekyll v3.9.3" />
+<meta property="og:title" content="Large Langunage Models - Strengths, Weaknesses, Opportunities &amp; Threats" />
+<meta name="author" content="Pierre de Malliard" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Understand the difference between Language Tasks and Knowledge Tasks. Language tasks involve understanding, generating language such as writing essays, formatting an output to JSON etc. Knowledge Tasks require accessing and providing factual information or real-world knowledge. LLMs are good at Language Tasks (reformatting outputs, reformulating etc) but struggle with Knowledge tasks:" />
+<meta property="og:description" content="Understand the difference between Language Tasks and Knowledge Tasks. Language tasks involve understanding, generating language such as writing essays, formatting an output to JSON etc. Knowledge Tasks require accessing and providing factual information or real-world knowledge. LLMs are good at Language Tasks (reformatting outputs, reformulating etc) but struggle with Knowledge tasks:" />
+<link rel="canonical" href="http://localhost:4000/2023/06/09/LargeLanguageModels.html" />
+<meta property="og:url" content="http://localhost:4000/2023/06/09/LargeLanguageModels.html" />
+<meta property="og:site_name" content="Pierre de Malliard" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-06-09T00:00:00-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Large Langunage Models - Strengths, Weaknesses, Opportunities &amp; Threats" />
+<meta name="twitter:site" content="@PMalliard" />
+<meta name="twitter:creator" content="@Pierre de Malliard" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Pierre de Malliard"},"dateModified":"2023-06-09T00:00:00-04:00","datePublished":"2023-06-09T00:00:00-04:00","description":"Understand the difference between Language Tasks and Knowledge Tasks. Language tasks involve understanding, generating language such as writing essays, formatting an output to JSON etc. Knowledge Tasks require accessing and providing factual information or real-world knowledge. LLMs are good at Language Tasks (reformatting outputs, reformulating etc) but struggle with Knowledge tasks:","headline":"Large Langunage Models - Strengths, Weaknesses, Opportunities &amp; Threats","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/2023/06/09/LargeLanguageModels.html"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"http://localhost:4000/profile_picture.jpeg"},"name":"Pierre de Malliard"},"url":"http://localhost:4000/2023/06/09/LargeLanguageModels.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+
+        <p class="view"><h2>Blog Posts:</h2></p>
+        <ul>
+        
+        <article>
+          <li>
+          <a href="/2023/11/29/Favortite-blog-posts.html">My favorite Blog posts</a>
+          
+        </article>
+      </li>
+        
+        <article>
+          <li>
+          <a href="/2023/06/09/LargeLanguageModels.html">Large Langunage Models - Strengths, Weaknesses, Opportunities & Threats</a>
+          
+        </article>
+      </li>
+        
+      </ul>
+
+      </header>
+      <section>
+
+      <small>9 June 2023</small>
+<h1>Large Langunage Models - Strengths, Weaknesses, Opportunities & Threats</h1>
+
+<p class="view"><i>Pierre de Malliard</i></p>
+
+<p>Understand the difference between <em>Language Tasks</em> and <em>Knowledge Tasks</em>. Language tasks involve understanding, generating language such as writing essays, formatting an output to JSON etc. Knowledge Tasks require accessing and providing factual information or real-world knowledge. LLMs are good at Language Tasks (reformatting outputs, reformulating etc) but struggle with Knowledge tasks:</p>
+
+<ul>
+  <li>They produce incorrect and contradictory statements</li>
+  <li>They produce dangerous and socially unacceptable statements (That include bias and other socially unacceptable output)</li>
+  <li>Limited Training, Retraining and Inference is expensive</li>
+  <li>The knowledge cannot easilty be updated: Updating just one fact is near-to-impossible</li>
+  <li>Lack of attribution: no easy way to determine which document in the training data is responsible for which part of the knowledge</li>
+  <li>Poor performance on non-language tasks (reasoning tasks etc.)</li>
+</ul>
+
+<p>Retrieval Augemented Generation (RAG) seem to be the holy grail, but they are not the panacea:</p>
+<ul>
+  <li>Implicit world knowledge (in LLM) can interfere with knowlege from retrieved documents (hallucination)</li>
+  <li>Only as good as the vector embeddings generated for each chunk of data</li>
+</ul>
+
+<p>Some academic research hints at the fact that “hacky” get-arounds allow for more robust solutions when dealing with LLMs:</p>
+<ul>
+  <li>Improve consistency of answers by asking the same question multiple times and finding the most consistent answer (through majority voting)</li>
+  <li>Leverage feedback based mechanisms</li>
+</ul>
+
+<p>Threats:</p>
+<ul>
+  <li>Multimodal models</li>
+  <li>Smaller models (Alpaca, Llama, Mistral)</li>
+  <li>Security &amp; Safety Issues: Jailbreak attacks, Prompt Injection attacks, Data Exfiltration attacks, Data poisoning attacks etc.</li>
+  <li>Evaluation: Latency, Tokens, Human Evaluation</li>
+</ul>
+
+<p>Opportunities :</p>
+<ul>
+  <li>LLMOps: Including Data Drift, Model Quality Drift</li>
+  <li>Design for potential model retraining / Fine-tuning: Capture the API input/output to allow for proprietary model training</li>
+</ul>
+
+<p><strong>Interesting reads / Sources:</strong></p>
+<ul>
+  <li><a href="https://web.stanford.edu/class/cs224u/2020/">Stanford Natural Language understanding</a></li>
+  <li><a href="https://www.youtube.com/watch?v=cEyHsMzbZBs">Thomas Dietterich, whats wrong with LLM</a></li>
+  <li><a href="https://arxiv.org/pdf/2307.15043.pdf">Adversarial attacks on LLM</a></li>
+</ul>
+
+
+
+
+
+      </section>
+    
+    </div>
+    <script src="/assets/js/scale.fix.js"></script>
+  </body>
+</html>
