@@ -39,7 +39,7 @@ I am currently based in New York City.
 * Classe préparatoire aux Grandes Ecoles CPGE, [Lycee Sainte Genevieve](https://www.bginette.com/)
 
 ### Experience
-* **AWS (AWS), Sr AI Solutions Architect
+* **AWS (AWS)**, Sr AI Solutions Architect
   * Currently part of the Global Healthcare&Life Sciences team at AWS
    
 * **TensorIoT (AWS Partner)**, AI/ML Tech Lead
