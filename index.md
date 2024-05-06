@@ -4,9 +4,9 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-Greetings! With over 8 years of dedicated experience in the AI/ML field, my journey has been centered around harnessing the power of data to solve complex problems, particularly within the Healthcare & Life Sciences industry.
+I am a seasoned professional in the AI/ML field, focused on leveraging data to drive solutions in the Healthcare & Life Sciences industry. My career has spanned various roles, including R&D at Masimo, a medical devices company, and my current position as Senior AI Solutions Architect at AWS in the Global Healthcare Lifesciences (HCLS) team.
 
-I worked diverse roles within this sector, ranging from an R&D role at the medical devices company, Masimo, to my current role as an AI/ML Tech Lead at TensorIoT, an Amazon Web Services Consulting Partner. Until recently, I have been contributing my expertise as a Full-Stack Data Scientist at AWS. I have worked with various healthcare clients, including industry giants in pharmaceuticals and healthcare providers, crafting ML solutions and AI platforms that underpin operational success.
+Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
 
 Throughout my career, I have embraced the role of a "Data Generalist," immersing myself in various aspects of the data ecosystem. From data engineering and architecture to data science and MLOps, I have gained valuable experience across multiple domains. My expertise extends to diverse areas such as Computer Vision, Natural Language Processing, Forecasting, Large Language Models, as well as more traditional machine learning approaches involving tabular data.
 
@@ -39,9 +39,11 @@ I am currently based in New York City.
 * Classe préparatoire aux Grandes Ecoles CPGE, [Lycee Sainte Genevieve](https://www.bginette.com/)
 
 ### Experience
-
+* **AWS (AWS), Sr AI Solutions Architect
+  * Currently part of the Global Healthcare&Life Sciences team at AWS
+   
 * **TensorIoT (AWS Partner)**, AI/ML Tech Lead
-  * Currently lead the technical delivery of AI projects, focussing moslty on GenAI projects: [Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
+  * Led and scoped the technical delivery of AI projects, focussing moslty on GenAI projects: e.g.[Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
   
 * **Amazon Web Services (AWS)**, Data Science Lead 
   * Worked with multiple healthcare clients (healthcare providers, pharmaceutical companies) on AI solutions: Some select projects are publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Multi-omics data, Waveform Data. ML Architecture / Data Science / MLOps
@@ -85,4 +87,4 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
 
-_last updated on November 28th, 2023_
+_last updated on May 6th, 2024_
