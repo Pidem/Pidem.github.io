@@ -15,8 +15,8 @@ My main programming language is Python, but I also have experience in C++, JavaS
 I am currently based in New York City. 
 
 ### What I am currently excited about
-* Explainability in AI/ML 
-* Large Language Models: LangChain, ChatGPT PlugIns, AWS Bedrock
+* Large Language Models: AWS Bedrock, Llama (PeFT, LORA)
+* Digital Pathology Foundation Models
 * Precision Medicine, Gene Therapy & Wearables
 
 
@@ -41,6 +41,7 @@ I am currently based in New York City.
 ### Experience
 * **Amazon Web Services (AWS)**, Sr AI Solutions Architect
   * Currently part of the Global Healthcare&Life Sciences team at AWS
+  * Digital Pathology work [here](https://github.com/aws-samples/ai-digital-pathology)
    
 * **TensorIoT (AWS Partner)**, AI/ML Tech Lead
   * Led and scoped the technical delivery of AI projects, focussing moslty on GenAI projects: e.g.[Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
@@ -93,4 +94,4 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
 
-_last updated on May 6th, 2024_
+_last updated on January 15th, 2025_
