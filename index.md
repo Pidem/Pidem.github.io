@@ -82,7 +82,7 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 * Twitter: [@PMalliard](https://twitter.com/PMalliard)
 
 ### Publications and Blog Posts
-
+* Accelerate digital pathology workflows on AWS [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/accelerate-digital-pathology-slide-annotation-workflows-on-aws-using-h-optimus-0/)
 * Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
   * Blog post on how to build MLOps infrastructure around SageMaker Autopilot
 
