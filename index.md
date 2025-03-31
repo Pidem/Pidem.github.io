@@ -4,21 +4,21 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-I am a seasoned professional in the AI/ML field, focused on leveraging data to drive solutions in the Healthcare & Life Sciences industry. My career has spanned various roles, including R&D at Masimo, a medical devices company, and my current position as Senior AI Solutions Architect at AWS in the Global Healthcare Lifesciences (HCLS) team.
+Hi, I am a seasoned professional in the AI/ML professional focused on AI/ML in the Healthcare & Life Sciences industry :microscope: 🩺 🏥. 
 
+My career has spanned various roles, including R&D at Masimo, a medical devices company, and my current position as Senior AI Solutions Architect at AWS in the Global Healthcare Lifesciences (HCLS) team.
 Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
 
-Throughout my career, I have embraced the role of a "Data Generalist," immersing myself in various aspects of the data ecosystem. From data engineering and architecture to data science and MLOps, I have gained valuable experience across multiple domains. My expertise extends to diverse areas such as Computer Vision, Natural Language Processing, Forecasting, Large Language Models, as well as more traditional machine learning approaches involving tabular data.
+My expertise extends to diverse areas such as Generative AI, Computer Vision, Natural Language Processing, as well as more traditional machine learning approaches involving tabular data
 
 My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
-I am currently based in New York City. 
+I am currently based in New York City :us: 
 
 ### What I am currently excited about
-* Large Language Models: AWS Bedrock, Llama (PeFT, LORA)
+* Large Language Models: AWS Bedrock, Model Fine-tuning, Agentic workflows
 * Digital Pathology Foundation Models
 * Precision Medicine, Gene Therapy & Wearables
-
 
 ### Skills
 
@@ -94,4 +94,4 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
 
-_last updated on January 15th, 2025_
+_last updated on March 31st, 2025_
