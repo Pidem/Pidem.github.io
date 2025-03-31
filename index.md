@@ -4,7 +4,7 @@ layout: default
 
 ## Data Generalist / Full-Stack Data Scientist
 
-Hi, I am a seasoned professional in the AI/ML professional focused on AI/ML in the Healthcare & Life Sciences industry :microscope: 🩺 🏥. 
+Hi, I am a seasoned AI/ML professional focused on AI/ML in the Healthcare & Life Sciences industry :microscope: 🩺 🏥. 
 
 My career has spanned various roles, including R&D at Masimo, a medical devices company, and my current position as Senior AI Solutions Architect at AWS in the Global Healthcare Lifesciences (HCLS) team.
 Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
