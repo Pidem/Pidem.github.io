@@ -13,7 +13,7 @@ My expertise extends to diverse areas such as Generative AI, Computer Vision, Na
 
 My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
-I speak german :de:, french :fr:, english :uk::us: and some spanish :es:
+I speak german, french, english and some spanish.
 
 I am currently based in New York City :us: 
 
