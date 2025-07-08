@@ -9,3 +9,4 @@ google_analytics: G-VM93DL0JJ3
 
 plugins:
   - jekyll-seo-tag
+  - jemoji
