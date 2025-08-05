@@ -86,14 +86,14 @@ and in a previous life...
 * System and Method for Monitoring Clinical Activities, [US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
   * US Patent for the work I did while working for Masimo
  
- ### Speaking Engagements
+### Speaking Engagements
  
  * [Biomolecular Imaging and Informatics (SBI2)](https://sbi2.org/past-conferences/), Boston 2024, *Transforming Digital Pathology through the convergence of Cloud*
 and Generative AI
  * [AWS Life Sciences Symposium](https://aws.amazon.com/health/life-sciences-symposium-2025/), New York, 2025, *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
  * [AWS New York Summit](https://aws.amazon.com/events/summits/new-york/?trk=c3966d3c-23de-4937-89f8-3d5f25e808c6&utm_custom=c3966d3c-23de-4937-89f8-3d5f25e808c6&sc_channel=el), New York, 2025, *HLS202 - Builders - Building Intelligent AI Agents for Life Sciences Innovation*
 
- ### Contact Me
+### Contact Me
 
 Feel free to reach out to me for collaboration, job opportunities, or any other inquiries.
 
