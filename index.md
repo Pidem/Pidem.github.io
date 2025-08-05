@@ -76,12 +76,7 @@ and in a previous life...
 * [AWS Certied Machine Learning Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e/linked_in_profile)
 * [AWS Certified Developer](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468?source=linked_in_profile)
 
-### Contact Me
 
-Feel free to reach out to me for collaboration, job opportunities, or any other inquiries.
-
-* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pierre-de-malliard/)
-* Twitter: [@PMalliard](https://twitter.com/PMalliard)
 
 ### Publications and Blog Posts
 * Accelerate digital pathology workflows on AWS [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/accelerate-digital-pathology-slide-annotation-workflows-on-aws-using-h-optimus-0/)
@@ -90,6 +85,19 @@ Feel free to reach out to me for collaboration, job opportunities, or any other 
 
 * System and Method for Monitoring Clinical Activities, [US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
   * US Patent for the work I did while working for Masimo
+ 
+ ## Speaking Engagements
+ * [Biomolecular Imaging and Informatics (SBI2)](https://sbi2.org/past-conferences/), Boston 2024, *Transforming Digital Pathology through the convergence of Cloud*
+and Generative AI
+ * [AWS Life Sciences Symposium](https://aws.amazon.com/health/life-sciences-symposium-2025/), New York, 2025, *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
+ * [AWS New York Summit](https://aws.amazon.com/events/summits/new-york/?trk=c3966d3c-23de-4937-89f8-3d5f25e808c6&utm_custom=c3966d3c-23de-4937-89f8-3d5f25e808c6&sc_channel=el), New York, 2025, *HLS202 - Builders - Building Intelligent AI Agents for Life Sciences Innovation*
+
+ ### Contact Me
+
+Feel free to reach out to me for collaboration, job opportunities, or any other inquiries.
+
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pierre-de-malliard/)
+* Twitter: [@PMalliard](https://twitter.com/PMalliard)
 
 
 ---
