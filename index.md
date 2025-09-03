@@ -6,18 +6,18 @@ layout: default
 
 Hi,
 
-I am an experienced AI/ML professional focused on AI/ML applications in the Healthcare & Life Sciences industry :microscope: 🩺 🏥. 
+I am an experienced AI/ML professional focused on AI/ML applications in the Healthcare & Life Sciences industry. 
 
-My career has spanned various roles: I started my career as a technology consultant, before moving to AI R&D working for a medical devices company called Masimo. In my current role as Senior AI SOlutions Architect at AWS, I currently lead AI/ML projects accross strategic Healthcare & Life Sciences customers in the Global Healthcare Lifesciences (HCLS) team.
+My career has spanned various roles: I started my career as a technology consultant, before moving to AI R&D working for a medical devices company called Masimo. In my current role as Senior AI Solutions Architect at AWS, I currently lead AI/ML projects accross strategic Healthcare & Life Sciences customers in the Global Healthcare Lifesciences (HCLS) team.
 Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
 
 My expertise extends to diverse areas such as Generative AI, Computer Vision, Natural Language Processing, as well as more traditional machine learning approaches involving tabular data
 
 My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
-I speak german, french, english and some spanish.
+I speak german 🇩🇪 , french 🇫🇷 , english 🇺🇸 and some spanish 🇪🇸 
 
-I am currently based in New York City :us: 
+I am currently based in New York City
 
 ### What I am currently excited about
 * Large Language Models: AWS Bedrock, Model Fine-tuning, Agentic workflows
