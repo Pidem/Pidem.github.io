@@ -82,6 +82,7 @@ and in a previous life...
 
 ### Publications and Blog Posts
 * Building GenAI and Agentic AI applications in GxP environments [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/)
+* Build a biomedical research agent with Biomni tools [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/)
 * Accelerate digital pathology workflows on AWS [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/accelerate-digital-pathology-slide-annotation-workflows-on-aws-using-h-optimus-0/)
 * Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
   * Blog post on how to build MLOps infrastructure around SageMaker Autopilot
