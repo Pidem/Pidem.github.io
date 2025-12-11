@@ -96,6 +96,7 @@ and in a previous life...
 and Generative AI
  * [AWS Life Sciences Symposium](https://aws.amazon.com/health/life-sciences-symposium-2025/), New York, 2025, *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
  * [AWS New York Summit](https://aws.amazon.com/events/summits/new-york/?trk=c3966d3c-23de-4937-89f8-3d5f25e808c6&utm_custom=c3966d3c-23de-4937-89f8-3d5f25e808c6&sc_channel=el), New York, 2025, *HLS202 - Builders - Building Intelligent AI Agents for Life Sciences Innovation*
+ * [AWS ReInvent 2025](https://reinvent.awsevents.com/), Las Vegas, 2025, *IND203 | AI and HCP Engagement: Powering Smarter Life Sciences Field Operations*
 
 ### Contact Me
 
