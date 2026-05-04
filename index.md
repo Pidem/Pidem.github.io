@@ -8,30 +8,34 @@ Hi,
 
 I am an experienced AI/ML professional focused on AI/ML applications in the Healthcare & Life Sciences industry. 
 
-My career has spanned various roles: I started my career as a technology consultant, before moving to AI R&D working for a medical devices company called Masimo. In my current role as Senior AI Solutions Architect at AWS, I currently lead AI/ML projects accross strategic Healthcare & Life Sciences customers in the Global Healthcare Lifesciences (HCLS) team.
-Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
+Currently, I am working as a Senior AI Solutions Architect at AWS as part of our Healthcare & Life Sciences Industry Vertical: I help drive AI adoption accross Healthcare Providers, MedTech, Pharma and Healthpayers to ultimately deliver better patient care. 
+
+My career has spanned various roles: I started my career as a technology consultant, before moving to AI R&D working for a medical devices company called Masimo. Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. 
+
+I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
 
 My expertise extends to diverse areas such as Generative AI, Computer Vision, Natural Language Processing, as well as more traditional machine learning approaches involving tabular data
 
 My main programming language is Python, but I also have experience in C++, JavaScript and R. 
 
-I speak german 🇩🇪 , french 🇫🇷 , english 🇺🇸 and some spanish 🇪🇸 
+I speak english 🇺🇸, german 🇩🇪 , french 🇫🇷, and spanish 🇪🇸 
 
 I am currently based in New York City
 
 ### What I am currently excited about
-* Large Language Models: AWS Bedrock, Model Fine-tuning, Agentic workflows
+
+* AWS Neuron Chips, NKI Kernels and more
+* Large Language Models: Model Fine-tuning, Agentic workflows Evaluations
 * Digital Pathology Foundation Models
-* Precision Medicine, Gene Therapy & Wearables
+* Precision Medicine x Gene Therapy x Wearables
 
 ### Skills
-
-* Data Architecture / Data Engineering
-* Data analysis and visualization
 * Machine learning and statistical modeling
 * Machine Learning Operations (MLOps)
 * AWS Subject Mattter Expert
 * DevOps (IaC, Docker, GitHub Action)
+* Data Architecture / Data Engineering
+* Data analysis and visualization
 * API integration
 * Healthcare Data, Good Clinical Practice, ICD10, CPT Codes, FHIRv7
 * Project Scoping / Project Management / Pre-Sales work 
@@ -43,9 +47,11 @@ I am currently based in New York City
 * Classe préparatoire aux Grandes Ecoles CPGE, [Lycee Sainte Genevieve](https://www.bginette.com/)
 
 ### Experience
+
 * **Amazon Web Services (AWS)**, Sr AI Solutions Architect
-  * Currently part of the Global Healthcare&Life Sciences team at AWS
+  * Currently part of the Global Healthcare & Life Sciences team at AWS
   * Digital Pathology work [here](https://github.com/aws-samples/ai-digital-pathology)
+  * Framework to build Agentic AI in regulated environments [here](https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/)
    
 * **TensorIoT (AWS Partner)**, AI/ML Tech Lead
   * Led and scoped the technical delivery of AI projects, focussing moslty on GenAI projects: e.g.[Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
@@ -93,12 +99,13 @@ and in a previous life...
  
 ### Speaking Engagements
  
- * [Biomolecular Imaging and Informatics (SBI2)](https://sbi2.org/past-conferences/), Boston 2024, *Transforming Digital Pathology through the convergence of Cloud*
-and Generative AI
+ * [Biomolecular Imaging and Informatics (SBI2)](https://sbi2.org/past-conferences/), Boston 2024, *Transforming Digital Pathology through the convergence of Cloud and Generative AI*
+ * AstraZeneca, Preparing for an agentic future - Evolving technology Learning Series, Global Ethics & Compliance, Executive Panel
  * [AWS Life Sciences Symposium](https://aws.amazon.com/health/life-sciences-symposium-2025/), New York, 2025, *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
  * [AWS New York Summit](https://aws.amazon.com/events/summits/new-york/?trk=c3966d3c-23de-4937-89f8-3d5f25e808c6&utm_custom=c3966d3c-23de-4937-89f8-3d5f25e808c6&sc_channel=el), New York, 2025, *HLS202 - Builders - Building Intelligent AI Agents for Life Sciences Innovation*
  * [AWS ReInvent 2025](https://reinvent.awsevents.com/), Las Vegas, 2025, *IND203 AI and HCP Engagement: Powering Smarter Life Sciences Field Operations*
  * [AWS Life Sciences Symposium](https://aws.amazon.com/health/aws-life-sciences-symposium-2026/), New York City, 2026, *Multi-Agents with A2A & MCP on AgentCore workshop*
+ * CitiusTech, *AI for Healthcare & Life Sciences - Building for breakthroughs*, Keynote speaker, Atlantic City, 2026
 
 ### Contact Me
 
