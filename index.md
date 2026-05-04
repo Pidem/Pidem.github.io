@@ -2,121 +2,133 @@
 layout: default
 ---
 
-## Data Generalist / Full-Stack Data Scientist
+## Building AI for Healthcare & Life Sciences
 
-Hi,
+I build AI systems that improve patient care.
 
-I am an experienced AI/ML professional focused on AI/ML applications in the Healthcare & Life Sciences industry. 
+I'm a Senior AI Solutions Architect at AWS, working with healthcare providers, pharma, MedTech, and payers on the Global Healthcare & Life Sciences team. My job is part engineering, part strategy: figuring out where AI actually moves the needle in healthcare, then building it.
 
-Currently, I am working as a Senior AI Solutions Architect at AWS as part of our Healthcare & Life Sciences Industry Vertical: I help drive AI adoption accross Healthcare Providers, MedTech, Pharma and Healthpayers to ultimately deliver better patient care. 
+I started in applied math and material science at École des Ponts ParisTech where the curriculum was heavy on continuum mechanics, numerical modeling, and PDEs. No CS degree, but it turns out that learning to model physical systems is a better foundation for AI than most people think. At Columbia, I did an M.S. in Management Science & Engineering, a joint program between the engineering school and the business school - half optimization and analytics, half strategy. That combination shaped how I work: I think in models, but I make decisions in business terms.
 
-My career has spanned various roles: I started my career as a technology consultant, before moving to AI R&D working for a medical devices company called Masimo. Previously, I served as AI/ML Tech Lead at AWS Consulting Partner TensorIoT, where I led and scoped complex AI Machine Learning projects, with a focus on GenAI. 
+I broke into tech through consulting, but what I actually wanted was to build things with real impact. So I joined a medical device company and started putting AI into clinical products: this work led to a [US patent](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267). I've been in healthcare AI since, across AWS Professional Services, a GenAI-focused AWS partner, and now the AWS Healthcare & Life Sciences team.
 
-I also worked as a Full-Stack Data Scientist in AWS Professional Services, delivering ML solutions and AI platforms for healthcare clients, including pharmaceutical industry leaders and healthcare providers.
+I speak English 🇺🇸, German 🇩🇪, French 🇫🇷, and Spanish 🇪🇸
 
-My expertise extends to diverse areas such as Generative AI, Computer Vision, Natural Language Processing, as well as more traditional machine learning approaches involving tabular data
+Based in New York City.
 
-My main programming language is Python, but I also have experience in C++, JavaScript and R. 
+### What I'm Currently Excited About
 
-I speak english 🇺🇸, german 🇩🇪 , french 🇫🇷, and spanish 🇪🇸 
+* Large Language Models: fine-tuning, agentic workflows, evaluations
+* Digital pathology foundation models
+* Precision medicine × gene therapy × wearables
+* AWS Neuron chips and NKI kernels
 
-I am currently based in New York City
+### Publications & Patents
 
-### What I am currently excited about
+* [Human-in-the-loop constructs for agentic workflows in Healthcare & Life
+Sciences](https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-con
+structs-for-agentic-workflows-in-healthcare-and-life-sciences/) — AWS Blog
+* [A guide to building AI agents in GxP
+environments](https://aws.amazon.com/blogs/machine-learning/a-guide-to-buildi
+ng-ai-agents-in-gxp-environments/) — AWS Blog
+* [Build a biomedical research agent with Biomni tools and Amazon Bedrock
+AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-r
+esearch-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/) — AWS
+Blog
+* [Accelerate digital pathology slide annotation workflows on
+AWS](https://aws.amazon.com/blogs/machine-learning/accelerate-digital-patholo
+gy-slide-annotation-workflows-on-aws-using-h-optimus-0/) — AWS Blog
+* [Move SageMaker Autopilot ML models from experimentation to production
+using SageMaker
+Pipelines](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemake
+r-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemak
+er-pipelines/) — AWS Blog
+* [System and Method for Monitoring Clinical
+Activities](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/
+20210256267) — US Patent
 
-* AWS Neuron Chips, NKI Kernels and more
-* Large Language Models: Model Fine-tuning, Agentic workflows Evaluations
-* Digital Pathology Foundation Models
-* Precision Medicine x Gene Therapy x Wearables
+### Speaking
 
-### Skills
-* Machine learning and statistical modeling
-* Machine Learning Operations (MLOps)
-* AWS Subject Mattter Expert
-* DevOps (IaC, Docker, GitHub Action)
-* Data Architecture / Data Engineering
-* Data analysis and visualization
-* API integration
-* Healthcare Data, Good Clinical Practice, ICD10, CPT Codes, FHIRv7
-* Project Scoping / Project Management / Pre-Sales work 
+* **AWS re:Invent 2025**, Las Vegas — *AI and HCP Engagement: Powering
+Smarter Life Sciences Field Operations*
+* **AWS Life Sciences Symposium 2026**, NYC — *Multi-Agents with A2A & MCP on
+AgentCore* (workshop)
+* **AWS Life Sciences Symposium 2025**, NYC — *End-to-end productivity for
+data & AI teams with Amazon SageMaker Unified Studio*
+* **AWS New York Summit 2025** — *Building Intelligent AI Agents for Life
+Sciences Innovation*
+* **CitiusTech 2026**, Atlantic City — *AI for Healthcare & Life Sciences:
+Building for Breakthroughs* (keynote)
+* **AstraZeneca** — *Preparing for an Agentic Future*, Global Ethics &
+Compliance Executive Panel
+* **SBI2 2024**, Boston — *Transforming Digital Pathology through the
+Convergence of Cloud and Generative AI*
 
-### Education
+### Select Projects
 
-* Master's Degree in MS&E, [Columbia University](https://mse.ieor.columbia.edu/)
-* Diplôme d'ingénieur, Applied Mathematics / Material Sciences, [Ecole des Ponts ParisTech](https://ecoledesponts.fr/en/welcome-school)
-* Classe préparatoire aux Grandes Ecoles CPGE, [Lycee Sainte Genevieve](https://www.bginette.com/)
+* [AI Digital Pathology on
+AWS](https://github.com/aws-samples/ai-digital-pathology) — open-source
+framework for digital pathology workflows
+* [Eversana ×
+TensorIoT](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-
+to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-r
+egulatory-review-solution/) — GenAI-powered medical regulatory review
+* [Gilead
+Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-stud
+y/) — ML solutions for pharmaceutical R&D
+*
+[Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercializa
+tion-case-study/) — AI platform for commercialization
+* [Masimo
+VCAM](https://investor.masimo.com/news/news-details/2023/Masimo-Announces-the
+-Limited-Market-Release-of-Visual-Clinical-Activity-Monitoring-VCAM/default.a
+spx) — Visual Clinical Activity Monitoring (AI medical device)
+* [Masimo Sepsis
+Index](https://investor.masimo.com/news/news-details/2022/Masimo-Announces-Li
+mited-Market-Release-of-Sepsis-Index/default.aspx) — Clinical decision
+support for sepsis detection
 
 ### Experience
 
-* **Amazon Web Services (AWS)**, Sr AI Solutions Architect
-  * Currently part of the Global Healthcare & Life Sciences team at AWS
-  * Digital Pathology work [here](https://github.com/aws-samples/ai-digital-pathology)
-  * Framework to build Agentic AI in regulated environments [here](https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/)
-   
-* **TensorIoT (AWS Partner)**, AI/ML Tech Lead
-  * Led and scoped the technical delivery of AI projects, focussing moslty on GenAI projects: e.g.[Eversana](https://www.eversana.com/2023/11/27/eversana-builds-on-commitment-to-pharmatize-ai-with-amazon-web-services-introduces-transformative-medical-regulatory-review-solution/?utm_source=EVERSANA&utm_medium=Press+release&utm_campaign=AWS_GenAI)
-  
-* **Amazon Web Services (AWS)**, Data Science Lead 
-  * Worked with multiple healthcare clients (healthcare providers, pharmaceutical companies) on AI solutions: Some select projects are publicly referencable such as here with [Gilead Sciences](https://aws.amazon.com/solutions/case-studies/gilead-data-case-study/), or [Moderna](https://aws.amazon.com/solutions/case-studies/moderna-commercialization-case-study/). Worked with EHR Data, Multi-omics data, Waveform Data. ML Architecture / Data Science / MLOps
-* **Masimo**, AI Engineering
-  * Built AI powered medical devices: Projects involved working with Electronic Health Records, Embedded Devices (NVDIA Jetsons), Good Clinical Practices. See these two press releases for two projects I worked on [Visual Clinical Activity Monitoring](https://investor.masimo.com/news/news-details/2023/Masimo-Announces-the-Limited-Market-Release-of-Visual-Clinical-Activity-Monitoring-VCAM/default.aspx) and  [Sepsis Index Clinical Decision Support](https://investor.masimo.com/news/news-details/2022/Masimo-Announces-Limited-Market-Release-of-Sepsis-Index/default.aspx)
-* **Capgemini**, Data Science
-  * Worked on mulitple Data Science and Data Engineering enegagments across multiple industries
-  * Developed multiple core data lake applications for a Cloud Migrations to Microsoft Azure using Databricks / Spark / SparkML
-  * Led an engagment for an Entity Matching project using SparkML and Databricks
+* **Amazon Web Services** — Sr. AI Solutions Architect, Global Healthcare &
+Life Sciences (current)
+* **TensorIoT (AWS Partner)** — AI/ML Tech Lead
+* **Amazon Web Services** — Data Science Lead, Professional Services
+* **Masimo** — AI Engineer, Medical Devices
+* **Capgemini** — Data Scientist
+* **Air Liquide** — Project Engineer, Hydrogen Fuel Cells
+* **Airbus Helicopters / Sogeti** — Material Science Engineer
 
-* **Louis Vuitton**, Data Science
-  * Worked part-time during Graduate School and built ML tools to help the Logistics team do Demand Forecasting.
+### Education
 
-and in a previous life...
-* **Air Liquide**, Project Engineer, Hydrogen Cars
-* **Airbus Helicopters** / Sogeti , Material Science Engineer, Rotor & Fluid Mechanics
+* M.S. Management Science & Engineering — [Columbia
+University](https://mse.ieor.columbia.edu/)
+* Diplôme d'ingénieur, Applied Mathematics & Material Sciences — [École des
+Ponts ParisTech](https://ecoledesponts.fr/en/welcome-school)
+* Classe préparatoire (CPGE) — [Lycée
+Sainte-Geneviève](https://www.bginette.com/)
 
 ### Certifications
 
-![SA Professional](aws-certified-solutions-architect-professional.png)
-![SA Associate](aws-certified-solutions-architect-associate.png)
-![Machine Learning Specialty](aws-certified-machine-learning-specialty.png)
-![Developer Associate](aws-certified-developer-associate.png)
+* [AWS Certified Solutions Architect —
+Professional](https://www.credly.com/badges/b6cdb9bd-03ae-4884-b786-d09db0d10
+0e7/public_url)
+* [AWS Certified Solutions Architect —
+Associate](https://www.credly.com/badges/d9289955-c415-4d42-a93e-4c2e4b17e500
+/linked_in_profile)
+* [AWS Certified Machine Learning —
+Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e
+/linked_in_profile)
+* [AWS Certified Developer —
+Associate](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468
+?source=linked_in_profile)
 
-* [AWS Certified Solutions Architect - Professional](https://www.credly.com/badges/b6cdb9bd-03ae-4884-b786-d09db0d100e7/public_url)
-* [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/d9289955-c415-4d42-a93e-4c2e4b17e500/linked_in_profile)
-* [AWS Certied Machine Learning Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e/linked_in_profile)
-* [AWS Certified Developer](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468?source=linked_in_profile)
+### Contact
 
-
-
-### Publications and Blog Posts
-* Human in the loop constructs with AgentCore [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/)
-* Building GenAI and Agentic AI applications in GxP environments [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/)
-* Build a biomedical research agent with Biomni tools [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/build-a-biomedical-research-agent-with-biomni-tools-and-amazon-bedrock-agentcore-gateway/)
-* Accelerate digital pathology workflows on AWS [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/accelerate-digital-pathology-slide-annotation-workflows-on-aws-using-h-optimus-0/)
-* Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines, [AWS Blog Post](https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/)
-  * Blog post on how to build MLOps infrastructure around SageMaker Autopilot
-
-* System and Method for Monitoring Clinical Activities, [US PATENT](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267)
-  * US Patent for the work I did while working for Masimo
- 
-### Speaking Engagements
- 
- * [Biomolecular Imaging and Informatics (SBI2)](https://sbi2.org/past-conferences/), Boston 2024, *Transforming Digital Pathology through the convergence of Cloud and Generative AI*
- * AstraZeneca, Preparing for an agentic future - Evolving technology Learning Series, Global Ethics & Compliance, Executive Panel
- * [AWS Life Sciences Symposium](https://aws.amazon.com/health/life-sciences-symposium-2025/), New York, 2025, *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
- * [AWS New York Summit](https://aws.amazon.com/events/summits/new-york/?trk=c3966d3c-23de-4937-89f8-3d5f25e808c6&utm_custom=c3966d3c-23de-4937-89f8-3d5f25e808c6&sc_channel=el), New York, 2025, *HLS202 - Builders - Building Intelligent AI Agents for Life Sciences Innovation*
- * [AWS ReInvent 2025](https://reinvent.awsevents.com/), Las Vegas, 2025, *IND203 AI and HCP Engagement: Powering Smarter Life Sciences Field Operations*
- * [AWS Life Sciences Symposium](https://aws.amazon.com/health/aws-life-sciences-symposium-2026/), New York City, 2026, *Multi-Agents with A2A & MCP on AgentCore workshop*
- * CitiusTech, *AI for Healthcare & Life Sciences - Building for breakthroughs*, Keynote speaker, Atlantic City, 2026
-
-### Contact Me
-
-Feel free to reach out to me for collaboration, job opportunities, or any other inquiries.
-
-* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pierre-de-malliard/)
+* LinkedIn:
+[pierre-de-malliard](https://www.linkedin.com/in/pierre-de-malliard/)
 * Twitter: [@PMalliard](https://twitter.com/PMalliard)
-
 
 ---
 
-Thank you for visiting my GitHub Page. Don't hesitate to explore my projects and reach out to me. I look forward to connecting with you!
-
-_last updated on March 31st, 2025_
+_Last updated May 2026_
