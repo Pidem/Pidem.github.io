@@ -10,7 +10,7 @@ I'm a Senior AI Solutions Architect at AWS, working with healthcare providers, p
 
 I started in applied math and material science at École des Ponts ParisTech where the curriculum was heavy on continuum mechanics, numerical modeling, and PDEs. No CS degree, but it turns out that learning to model physical systems is a better foundation for AI than most people think. At Columbia, I did an M.S. in Management Science & Engineering, a joint program between the engineering school and the business school - half optimization and analytics, half strategy. That combination shaped how I work: I think in models, but I make decisions in business terms.
 
-I broke into tech through consulting, but what I actually wanted was to build things with real impact. So I joined a medical device company and started putting AI into clinical products: this work led to a [US patent](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267). I've been in healthcare AI since, across AWS Professional Services, a GenAI-focused AWS partner, and now the AWS Healthcare & Life Sciences team.
+I broke into tech through consulting, but what I actually wanted was to build things with real impact. So I joined a medical device company and started putting AI into clinical products: one of the projects led to a [US patent](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267). I've been in healthcare AI since, across AWS Professional Services, a GenAI-focused AWS partner, and now the AWS Healthcare & Life Sciences team.
 
 I speak English 🇺🇸, German 🇩🇪, French 🇫🇷, and Spanish 🇪🇸
 
@@ -34,12 +34,12 @@ Based in New York City.
 
 ### Speaking
 
-* **AWS re:Invent 2025**, Las Vegas — *AI and HCP Engagement: Powering Smarter Life Sciences Field Operations*
-* **AWS Life Sciences Symposium 2026**, NYC — *Multi-Agents with A2A & MCP on AgentCore* (workshop)
-* **AWS Life Sciences Symposium 2025**, NYC — *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
-* **AWS New York Summit 2025** — *Building Intelligent AI Agents for Life Sciences Innovation*
-* **CitiusTech 2026**, Atlantic City — *AI for Healthcare & Life Sciences: Building for Breakthroughs* (keynote)
-* **AstraZeneca** — *Preparing for an Agentic Future*, Global Ethics & Compliance Executive Panel
+* **CitiusTech 2026**, April 2026, Atlantic City — *AI for Healthcare & Life Sciences: Building for Breakthroughs* (keynote)
+* **AWS Life Sciences Symposium**, April 2026, NYC — *Multi-Agents with A2A & MCP on AgentCore* (workshop)
+* **AWS re:Invent 2025**, December 2025, Las Vegas — *AI and HCP Engagement: Powering Smarter Life Sciences Field Operations*
+* **AWS New York Summit**, 2025, NYC - *Building Intelligent AI Agents for Life Sciences Innovation*
+* **AWS Life Sciences Symposium 2025**, April 2025,NYC — *End-to-end productivity for data & AI teams with Amazon SageMaker Unified Studio*
+* **AstraZeneca**, 2024 — *Preparing for an Agentic Future*, Global Ethics & Compliance Executive Panel
 * **SBI2 2024**, Boston — *Transforming Digital Pathology through the Convergence of Cloud and Generative AI*
 
 ### Select Projects
