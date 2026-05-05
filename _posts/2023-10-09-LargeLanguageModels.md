@@ -1,5 +1,5 @@
 ---
-title: Large Langunage Models - Strengths, Weaknesses, Opportunities & Threats
+title: Large Language Models - Strengths, Weaknesses, Opportunities & Threats
 layout: post
 summary: Exploring the Buzz - An opinonated take on the Large Language Model Phenomenon
 ---

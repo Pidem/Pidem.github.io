@@ -78,6 +78,9 @@ and who gets access to what. (Data infrastructure & governance, FM training)
 * [AWS Certified Machine Learning — Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e/linked_in_profile)
 * [AWS Certified Developer — Associate](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468?source=linked_in_profile)
 
+
+Interested in having me speak or just want to talk? please reach out:
+
 ### Contact
 
 * LinkedIn: [pierre-de-malliard](https://www.linkedin.com/in/pierre-de-malliard/)
