@@ -79,7 +79,7 @@ and who gets access to what. (Data infrastructure & governance, FM training)
 * [AWS Certified Developer — Associate](https://www.credly.com/badges/30b282cf-803e-4d63-91e2-5efd0941c468?source=linked_in_profile)
 
 
-Interested in having me speak or just want to talk? please reach out:
+Interested in having me speak or want to talk? Reach out:
 
 ### Contact
 
