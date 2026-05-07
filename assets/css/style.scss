@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.wrapper {
+  max-width: 1100px;
+}
+
 .home-with-sidebar {
   display: flex;
   gap: 2rem;
