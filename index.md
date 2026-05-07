@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Building AI for Healthcare & Life Sciences"
 ---
 
 ## Building AI for Healthcare & Life Sciences

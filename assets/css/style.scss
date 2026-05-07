@@ -1,0 +1,63 @@
+---
+---
+
+@import "minima";
+
+.home-with-sidebar {
+  display: flex;
+  gap: 2rem;
+}
+
+.sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  position: sticky;
+  top: 2rem;
+  align-self: flex-start;
+}
+
+.sidebar-avatar {
+  width: 100%;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+.sidebar h3 {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.sidebar-posts {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+    margin-bottom: 0.4rem;
+  }
+
+  a {
+    font-size: 0.85rem;
+  }
+}
+
+.main-content {
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 600px) {
+  .home-with-sidebar {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    position: static;
+    text-align: center;
+  }
+
+  .sidebar-avatar {
+    width: 150px;
+  }
+}

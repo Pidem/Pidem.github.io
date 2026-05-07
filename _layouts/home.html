@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="home-with-sidebar">
+  <aside class="sidebar">
+    <img src="/profile_picture.jpeg" alt="Pierre de Malliard" class="sidebar-avatar" />
+    <h3>Blog Posts</h3>
+    <ul class="sidebar-posts">
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </aside>
+  <main class="main-content">
+    {{ content }}
+  </main>
+</div>
