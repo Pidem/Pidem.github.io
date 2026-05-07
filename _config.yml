@@ -1,12 +1,25 @@
-theme: jekyll-theme-minimal
-tagline: Personal Website - Pierre de Malliard
-author: Pierre de Malliard
+theme: minima
 title: Pierre de Malliard
+tagline: Personal Website - Pierre de Malliard
+author:
+  name: Pierre de Malliard
+  email: pidemal@amazon.com
+description: >-
+  Senior AI/ML Solutions Architect at AWS, working on AI for Healthcare &
+  Life Sciences. Writing about AI, data infrastructure, and healthcare.
 logo: profile_picture.jpeg
-twitter: 
-  username: PMalliard
 google_analytics: G-VM93DL0JJ3
+
+minima:
+  skin: classic
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: twitter, user_url: "https://twitter.com/PMalliard" }
+    - { platform: github,  user_url: "https://github.com/Pidem" }
+
+header_pages: []
 
 plugins:
   - jekyll-seo-tag
   - jemoji
+  - jekyll-feed

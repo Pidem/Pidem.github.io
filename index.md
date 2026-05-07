@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 ## Building AI for Healthcare & Life Sciences
