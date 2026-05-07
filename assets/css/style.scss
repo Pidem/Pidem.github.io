@@ -12,16 +12,15 @@
 }
 
 .home-with-sidebar {
-  display: flex;
+  display: grid !important;
+  grid-template-columns: 220px 1fr;
   gap: 2rem;
 }
 
 .sidebar {
-  width: 220px;
-  flex-shrink: 0;
   position: sticky;
   top: 2rem;
-  align-self: flex-start;
+  align-self: start;
 }
 
 .sidebar-avatar {
@@ -50,22 +49,25 @@
 }
 
 .main-content {
-  flex: 1;
   min-width: 0;
+}
+
+.footer-col-1 .contact-list {
+  display: none;
 }
 
 @media (max-width: 600px) {
   .home-with-sidebar {
-    flex-direction: column;
+    grid-template-columns: 1fr;
   }
 
   .sidebar {
-    width: 100%;
     position: static;
     text-align: center;
   }
 
   .sidebar-avatar {
     width: 150px;
+    margin: 0 auto 1rem;
   }
 }
