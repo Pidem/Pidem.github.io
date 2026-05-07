@@ -17,5 +17,4 @@ header_pages: []
 
 plugins:
   - jekyll-seo-tag
-  - jemoji
   - jekyll-feed

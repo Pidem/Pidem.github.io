@@ -4,13 +4,13 @@
 @import "minima";
 
 div.wrapper {
-  max-width: 960px;
+  max-width: 1200px;
   margin-left: 5%;
 }
 
 .page-content > .wrapper > * {
-  width: 65%;
-  max-width: 640px;
+  width: 70%;
+  max-width: 800px;
 }
 
 nav.sidebar-fixed {
@@ -21,13 +21,12 @@ nav.sidebar-fixed {
 }
 
 .sidebar-avatar {
-  width: 150px;
-  border-radius: 50%;
-  margin-bottom: 1rem;
+  width: 220px;
+  margin-bottom: 2rem;
 }
 
 .sidebar-fixed h3 {
-  font-size: 1rem;
+  font-size: 32px;
   margin-bottom: 0.5rem;
 }
 
@@ -45,8 +44,13 @@ nav.sidebar-fixed {
   }
 }
 
-.footer-col-1 .contact-list {
-  display: none;
+.site-footer {
+  .footer-heading {
+    display: none;
+  }
+  .footer-col-1 .contact-list {
+    display: none;
+  }
 }
 
 @media (max-width: 800px) {
