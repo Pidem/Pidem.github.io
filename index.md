@@ -69,11 +69,14 @@ and who gets access to what. (Data infrastructure & governance, FM training)
 
 ### Certifications
 
+
 ![SA Professional](aws-certified-solutions-architect-professional.png)
 ![SA Associate](aws-certified-solutions-architect-associate.png)
+![Gen AI Developer](aws-certitfied-genai.png)
 ![Machine Learning Specialty](aws-certified-machine-learning-specialty.png)
 ![Developer Associate](aws-certified-developer-associate.png)
 
+* [AWS Certified Generartive AI Developer - Profesional]()
 * [AWS Certified Solutions Architect — Professional](https://www.credly.com/badges/b6cdb9bd-03ae-4884-b786-d09db0d100e7/public_url)
 * [AWS Certified Solutions Architect — Associate](https://www.credly.com/badges/d9289955-c415-4d42-a93e-4c2e4b17e500/linked_in_profile)
 * [AWS Certified Machine Learning — Specialty](https://www.credly.com/badges/1f04f054-fc3d-4fd2-ad79-43f812e0092e/linked_in_profile)
