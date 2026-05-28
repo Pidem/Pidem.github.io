@@ -1,15 +1,10 @@
 ---
 layout: post
-title: "Optimizing multi-agent performance & costs with AgentCore Observability, X-Ray and CloudWatch dashboards"
+title: "Optimizing multi-agent systems"
 subtitle: "ADOT, OpenTelemetry, X-Ray, and CloudWatch for AI Developers"
 date: 2026-05-28
 ---
-
-# Optimizing multi-agent performance & costs with AgentCore Observability, X-Ray and CloudWatch dashboards
-
-*ADOT, OpenTelemetry, X-Ray, and CloudWatch for AI Developers*
-
----
+*Performance & Costs with ADOT, OpenTelemetry, X-Ray, and CloudWatch for AI Developers*
 
 You have deployed a multi-agent system:
 
@@ -24,8 +19,6 @@ Everything works, until it doesn't: A user reports that the agent "took forever"
 
 This post introduces the Agentic observability stack that answers that question: AWS offers a full set of tools to help you develop new agentic systems, monitor them and diagnose errors.
 We will introduce OpenTelemetry, ADOT, X-Ray and CloudWatch composite metrics. With code.
-
----
 
 ## The Mental Model: Three Layers
 
