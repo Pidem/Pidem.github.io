@@ -9,19 +9,19 @@ I design production AI systems that improve patient care and help teams ship at 
 
 I'm a Senior AI Solutions Architect at AWS, working with healthcare providers, pharma, MedTech, and payers on the Global Healthcare & Life Sciences team. My job is part engineering, part strategy: figuring out where AI actually moves the needle in healthcare, then building it.
 
-I started in applied mathematics and material sciences, and it turns out that learning to model physical systems is a great foundation for modern AI. I later got a M.S. in Management Science & Engineering, a joint program between an engineering school and a business school - half optimization and analytics, half strategy. That combination shaped how I work: I think in models, but I make decisions in business terms.
+I started in applied mathematics and material sciences, and it turns out that learning to model physical systems is a great foundation for modern AI. I later got a M.S. in Management Science & Engineering, a joint program between the School of engineering and Columbia Business School: I aspire to continue to develop both my "hard-skills" of Science and Engineering and to drive business impact.
 
-I broke into tech through consulting, but what I actually wanted was to build things with real impact. So I joined a medical device company and started putting AI into clinical products: one of the projects led to a [US patent](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20210256267). I've been in healthcare AI since, delivering ML platforms at AWS Professional Services, leading a GenAI practice at an AWS partner, and now shaping AI strategy for some of the largest life sciences organizations in the world as part of the AWS Healthcare & Life Sciences team.
+I have worked in technology for over a decade, and in Healthcare & Life Sciences for more than 8 years: I joined a medical device company and started putting AI into clinical products, both for clinical decision support systems as well as for smart hospitals. I've been in healthcare AI since, working on Data Science and MLOps projects while at AWS Professional Services, leading a GenAI practice at TensorIoT, an AWS partner, and now shaping AI strategy for some of the largest life sciences organizations in the world as part of the AWS Healthcare & Life Sciences team.
 
 I speak English 🇺🇸, German 🇩🇪, French 🇫🇷, and Spanish 🇪🇸
 
-Based in New York City.
+I am currently based in New York City.
 
 ### Point of View
 
 * Everyone has access to the same public models. The real advantage is private data: how you structure it, how you extract signal from multimodal sources,
 and who gets access to what. (Data infrastructure & governance, FM training)
-* The other bottleneck is inference cost. Custom silicon (I spend a lot of time on AWS Neuron chips and NKI kernels), model fine-tuning, and rigorous agentic evaluation are what determine whether healthcare AI scales.
+* The other bottleneck is inference cost. Custom silicon (I spend a lot of time on AWS Neuron chips and NKI kernels), model fine-tuning, and rigorous agentic evaluation are what determine whether healthcare AI scales. Model routing is a science in itself. 
 
 ### Publications & Patents
 
