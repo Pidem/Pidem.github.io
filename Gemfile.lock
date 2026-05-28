@@ -14,9 +14,9 @@ GEM
       securerandom (>= 0.3)
       tzinfo (~> 2.0, >= 2.0.5)
       uri (>= 0.13.1)
-    addressable (2.8.5)
-      public_suffix (>= 2.0.2, < 6.0)
-    base64 (0.2.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
+    base64 (0.3.0)
     bigdecimal (4.1.2)
     coffee-script (2.4.1)
       coffee-script-source
@@ -36,11 +36,12 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.9.1)
-    faraday (2.7.11)
-      base64
-      faraday-net_http (>= 2.0, < 3.1)
-      ruby2_keywords (>= 0.0.4)
-    faraday-net_http (3.0.2)
+    faraday (2.14.2)
+      faraday-net_http (>= 2.0, < 3.5)
+      json
+      logger
+    faraday-net_http (3.4.3)
+      net-http (~> 0.5)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -228,6 +229,8 @@ GEM
     minitest (6.0.6)
       drb (~> 2.0)
       prism (~> 1.5)
+    net-http (0.9.1)
+      uri (>= 0.11.1)
     nokogiri (1.19.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
@@ -244,7 +247,6 @@ GEM
       ffi (~> 1.0)
     rexml (3.4.4)
     rouge (3.26.0)
-    ruby2_keywords (0.0.5)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sass (3.7.4)
@@ -275,6 +277,8 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (>= 7.2.3.1)
+  addressable (>= 2.9.0)
+  faraday (>= 2.14.2)
   github-pages
   jekyll-seo-tag
   nokogiri (>= 1.19.3)

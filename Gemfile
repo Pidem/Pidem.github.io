@@ -4,4 +4,5 @@ gem 'jekyll-seo-tag'
 gem "rexml", ">= 3.3.9"
 gem "nokogiri", ">= 1.19.3"
 gem "activesupport", ">= 7.2.3.1"
-
+gem "addressable", ">= 2.9.0"
+gem "faraday", ">= 2.14.2"
