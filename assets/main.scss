@@ -16,8 +16,10 @@ div.wrapper {
 nav.sidebar-fixed {
   position: fixed;
   top: 80px;
-  left: 65%;
+  left: 75%;
   max-width: 220px;
+  max-height: calc(100vh - 100px);
+  overflow-y: auto;
 }
 
 .sidebar-avatar {
