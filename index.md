@@ -23,6 +23,10 @@ I am currently based in New York City.
 and who gets access to what. (Data infrastructure & governance, FM training)
 * The other bottleneck is inference cost. Custom silicon (I spend a lot of time on AWS Neuron chips and NKI kernels), model fine-tuning, and rigorous agentic evaluation are what determine whether healthcare AI scales. Model routing is a science in itself. 
 
+### Guides
+
+* [Neuron Performance Book](/neuron-performance-book/) — A practitioner's guide to profiling and optimizing models on AWS Trainium & Inferentia
+
 ### Publications & Patents
 
 * [Human-in-the-loop constructs for agentic workflows in Healthcare & Life Sciences](https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/) — AWS Blog
